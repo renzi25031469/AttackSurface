@@ -175,12 +175,12 @@ For authorized security testing only. The author is not responsible for any misu
 ## 🇧🇷 Attack Surface Mapper — Português
 
 ```
-    _   _   _             _      ____              __                
-   / \ | |_| |_ __ _  ___| | __ / ___| _   _ _ __ / _| __ _  ___ ___ 
-  / _ \| __| __/ _` |/ __| |/ / \___ \| | | | '__| |_ / _` |/ __/ _ \
- / ___ \ |_| || (_| | (__|   <   ___) | |_| | |  |  _| (_| | (_|  __/
-/_/   \_\__|__\__,_|\___|_|\_\ |____/ \__,_|_|  |_|  \__,_|\___\___|
-        Attack Surface Mapper — DNS + Scan + Report
+            _   _   _             _      ____              __                
+           / \ | |_| |_ __ _  ___| | __ / ___| _   _ _ __ / _| __ _  ___ ___ 
+          / _ \| __| __/ _` |/ __| |/ / \___ \| | | | '__| |_ / _` |/ __/ _ \
+         / ___ \ |_| || (_| | (__|   <   ___) | |_| | |  |  _| (_| | (_|  __/
+        /_/   \_\__|__\__,_|\___|_|\_\ |____/ \__,_|_|  |_|  \__,_|\___\___|
+                  Attack Surface Mapper — DNS + Scan + Report
 ```
 
 Script Bash que automatiza o mapeamento de superfície de ataque externa combinando resolução DNS, varredura de portas e geração de relatório HTML — tudo em um único comando.
