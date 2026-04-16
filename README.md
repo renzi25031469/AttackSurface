@@ -11,8 +11,8 @@
    / \ | |_| |_ __ _  ___| | __ / ___| _   _ _ __ / _| __ _  ___ ___ 
   / _ \| __| __/ _` |/ __| |/ / \___ \| | | | '__| |_ / _` |/ __/ _ \
  / ___ \ |_| || (_| | (__|   <   ___) | |_| | |  |  _| (_| | (_|  __/
-/_/   \_\__|__\__,_|\___|_|\_\ |____/ \__,_|_|  |_|  \__,_|\___\___|
-        Attack Surface Mapper — DNS + Scan + Report
+/_/   \_\__|\__\__,_|\___|_|\_\ |____/ \__,_|_|  |_|  \__,_|\___\___|
+ 	Attack Surface Mapper — DNS + Scan + Report
 ```
 
 A Bash script that automates external attack surface discovery by combining DNS resolution, port scanning, and HTML report generation — all in a single command.
